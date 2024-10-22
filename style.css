@@ -1,0 +1,29 @@
+.bank-details {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.bank-details h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+.bank-details p {
+    color: #555;
+    font-size: 16px;
+}
+
+.bank-details .account-number,
+.bank-details .routing-number {
+    font-weight: bold;
+    color: #007BFF;
+}
+
+.bank-details .note {
+    font-style: italic;
+    color: #888;
+}
